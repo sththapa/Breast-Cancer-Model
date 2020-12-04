@@ -1,2 +1,2 @@
 # Breast-Cancer-Model
-Breast Cancer Model
+Breast Cancer Predictor
